@@ -1,0 +1,11 @@
+/.bundle
+
+/log/*
+!/log/.keep
+/tmp
+/public
+.ruby-version
+/vendor/assets/components/
+.DS_Store
+config/database.yml
+config/secrets.yml
